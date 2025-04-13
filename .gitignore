@@ -6,3 +6,9 @@ combined_model.h5
 combined_model2.h5
 combined_model_58.keras
 combined_model_58.h5
+preprocessed_test_data.csv
+preprocessed_train_data.csv
+vae_model_weights_20epoch.weights.h5
+vae_model_weights_70epoch.weights.h5
+vae_model_weights_90epoch.weights.h5
+vae_model_weights.weights.h5
